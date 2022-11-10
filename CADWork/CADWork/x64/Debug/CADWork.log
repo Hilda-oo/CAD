@@ -1,0 +1,13 @@
+﻿  main.cpp
+E:\CADModel\CADWork\CADWork\main.cpp(217,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\CADModel\CADWork\CADWork\main.cpp(218,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\CADModel\CADWork\CADWork\main.cpp(248,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\CADModel\CADWork\CADWork\main.cpp(249,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\CADModel\CADWork\CADWork\main.cpp(254,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\CADModel\CADWork\CADWork\main.cpp(263,16): warning C4305: “+=”: 从“double”到“GLfloat”截断
+E:\CADModel\CADWork\CADWork\main.cpp(264,16): warning C4305: “+=”: 从“double”到“GLfloat”截断
+E:\CADModel\CADWork\CADWork\main.cpp(265,16): warning C4305: “+=”: 从“double”到“GLfloat”截断
+E:\CADModel\CADWork\CADWork\main.cpp(269,16): warning C4305: “-=”: 从“double”到“GLfloat”截断
+E:\CADModel\CADWork\CADWork\main.cpp(270,16): warning C4305: “-=”: 从“double”到“GLfloat”截断
+E:\CADModel\CADWork\CADWork\main.cpp(271,16): warning C4305: “-=”: 从“double”到“GLfloat”截断
+  CADWork.vcxproj -> E:\CADModel\CADWork\x64\Debug\CADWork.exe
